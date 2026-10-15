@@ -2,7 +2,7 @@
 
 Projeto do Tech Challenge da Fase 1 (Pós-graduação em Análise de Dados). A análise transforma dados de pedidos da Olist em uma narrativa para investidores: o crescimento de 2017 a 2018, por que ele estagnou e o que fazer para retomá-lo.
 
-**Autor:** [seu nome]
+**Autor:** Harold Sthefan
 
 ## Principais achados
 
