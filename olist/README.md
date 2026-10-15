@@ -46,5 +46,5 @@ python src/03_external_ibge.py data/processed/orders_master.csv data/external/ib
 
 ## Apresentação e vídeo
 
-- Apresentação: https://docs.google.com/presentation/d/1hotb4s4c4Uj1Ge2HdvtqLqHwbVVEC5GZ/edit?usp=drive_link&ouid=110390148328647991070&rtpof=true&sd=true
+- Apresentação: https://docs.google.com/presentation/d/1hotb4s4c4Uj1Ge2HdvtqLqHwbVVEC5GZ/edit?usp=sharing&ouid=110390148328647991070&rtpof=true&sd=true
 - Vídeo (até 5 minutos): [link]
